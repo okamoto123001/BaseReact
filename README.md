@@ -1,4 +1,4 @@
-# BasReact
+# BasReact（作成中）
 
 Reactの開発環境を整える。\
 基礎となる部分は目的に関わらず、変わらないと思うので再利用できるような形にしたい。\
@@ -8,7 +8,7 @@ Create-React-Appは使用しない。結局webpackなど基礎的な部分を理
 * Typescript
 * webpack
 
-Create-React-Appを使用しない理由参考サイト：https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0
+Create-React-Appを使用しない理由参考サイト：https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0\
 Webpackやbabelを使うようになった理由参考サイト：https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
 # 作成内容
